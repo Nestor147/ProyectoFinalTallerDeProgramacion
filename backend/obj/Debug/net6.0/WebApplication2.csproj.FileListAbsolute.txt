@@ -1,0 +1,262 @@
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\appsettings.json
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\WENDY CALIZAYA\source\repos\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\appsettings.json
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Npgsql.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\WENDY CALIZAYA\source\repos\Taller de programación\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\appsettings.json
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Npgsql.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\razie\Downloads\WebApplication2-20231004T144607Z-001\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\appsettings.json
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Npgsql.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\razie\Desktop\pepe - copia\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\appsettings.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Npgsql.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\ProyectoFinal\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\appsettings.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Npgsql.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\staticwebassets\msbuild.WebApplication2.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApplication2.props
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApplication2.props
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApplication2.props
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\NESTOR\Desktop\ProyectoFinalTaller\ProyectoFinal (1)\backend\obj\Debug\net6.0\ref\WebApplication2.dll
